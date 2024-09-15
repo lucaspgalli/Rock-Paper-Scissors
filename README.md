@@ -12,7 +12,7 @@ Este repositório contém um projeto que constrói um aplicativo de Pedra, Papel
 
 ## Visão Geral do Projeto
 
-Este projeto implementa um jogo de Pedra, Papel e Tesoura funcional onde os usuários podem competir contra o computador. O aplicativo utiliza JavaScript para gerar escolhas aleatórias do computador e comparar com as do jogador. É um projeto para iniciantes com foco na estrutura HTML, estilo CSS e interatividade com JavaScript.
+Este projeto implementa um jogo de Pedra, Papel e Tesoura funcional onde os usuários podem competir contra o computador. O aplicativo utiliza JavaScript para gerar escolhas aleatórias do computador e comparar com as do jogador, assim como uma função de AutoPlay. É um projeto para iniciantes com foco na estrutura HTML, estilo CSS e interatividade com JavaScript.
 
 ## Funcionalidades
 
@@ -63,7 +63,7 @@ This repository contains a project that builds a Rock, Paper, Scissors applicati
 
 ## Project Overview
 
-This project implements a functional Rock, Paper, Scissors game where users can compete against the computer. The application uses JavaScript to generate random choices from the computer and compare them to those of the player. It's a beginner-friendly project focusing on HTML structure, CSS styling, and JavaScript interactivity.
+This project implements a functional Rock, Paper, Scissors game where users can compete against the computer. The application uses JavaScript to generate random choices from the computer and compare them to those of the player, as well as an AutoPlay function. It's a beginner-friendly project focusing on HTML structure, CSS styling, and JavaScript interactivity.
 
 ## Features
 
